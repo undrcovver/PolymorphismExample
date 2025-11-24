@@ -6,7 +6,7 @@ using namespace std;
 
 void Square::ShowArea() const
 {
-    cout << "Square of rectangle: " << m_value1 * m_value2 << endl;
+    cout << "Square of rectangle: " << m_value1 * m_value1 << endl;
 }
 
 void Square::ShowLength() const 
